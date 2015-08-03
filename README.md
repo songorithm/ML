@@ -14,7 +14,7 @@ Middle Learning = Shallow + Deep Machine Learning
 
 
 # 커리큘럼
-------------
+
 <b>PART I</b>
 * 2015년 4월 27일~ 2015년 8월 03일  
 
@@ -37,3 +37,33 @@ Middle Learning = Shallow + Deep Machine Learning
 |   |    | (DML) Numerical Computation | 조정희 |   |
 |   |    | (theano) More Examples  | 박세진 |   |
 |   |    | (theano) Graph Structures  | 노규형 |   |
+
+---------------------
+
+<b>PART II</b>
+* 2015년 8월 17일~ 2015년 10월 26일  
+
+| 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
+| ----- |:------:| :-------------------------------------|:-------:|:----------------------------------------: |
+| 1 |8/17| 보강) probabilistic graphical models  |   |   |
+|   |    | (DML) Machine Learning Basics   |   |   |
+|   |    | (caffe) Forward / Backward   |  |   |
+|   |    | (theano) Printing/Drawing Theano graphs   |  |   |
+| 2 |8/31| (SML) Chapter 6: Clustering with K-Means  |   |   |
+|   |    | 보강) PGM 실습   |   |   |
+|   |    | (caffe) Loss   |  |   |
+|   |    | (theano) Derivatives in Theano   |  |   |
+| 3 |9/14| (DML) Feedforward Deep Networks  |   |   |
+|   |    | 보강) Deep Learning 실습   |   |   |
+| 4 |9/28| (SML) Chapter 7: Dimensionality Reduction with PCA  |   |   |
+|   |    | (DML) Numerical Optimization   |   |   |
+|   |    | (caffe) Solver   |  |   |
+|   |    | (theano) Configuration Settings and Compiling Modes    |  |   |
+| 5 |10/12| (SML) Chapter 8: The Perceptron  |   |   |
+|   |     | (DML) Structured Probabilistic Models: A Deep Learning Perspective   |   |   |
+|   |     | (caffe) Layer Catalogue   |  |   |
+|   |     | (theano) Loading and Saving   |  |   |
+| 6 |10/26| (SML) Chapter 9: From the Perceptron to Support Vector Machines  |   |   |
+|   |     | (DML) Unsupervised and Transfer Learning   |   |   |
+|   |     | (caffe) Interfaces   |  |   |
+|   |     | (theano) Conditions, Loop, Sparse   |  |   |
