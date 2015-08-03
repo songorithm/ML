@@ -32,7 +32,7 @@ Middle Learning = Shallow + Deep Machine Learning
 |   |    | 보강) Deep Learning 실습 - theano & caffe intro   | 김정주 |   |
 | 5 |7/20| (SML) Chapter 4: From Linear Regression to Logistic Regression | 김덕태 |   |
 |   |    | (DML) Probability and Information Theory   | 박성걸 |   |
-| 6 |7/20| (SML) Chapter 5: Nonlinear Classification and Regression with Decision Trees | 노규형 |   |
+| 6 |8/03| (SML) Chapter 5: Nonlinear Classification and Regression with Decision Trees | 노규형 |   |
 |   |    | (DML) Numerical Computation | 조정희 |   |
 |   |    | (theano) More Examples  | 박세진 |   |
 |   |    | (theano) Graph Structures  | 노규형 |   |
