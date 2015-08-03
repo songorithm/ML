@@ -25,9 +25,9 @@ Middle Learning = Shallow + Deep Machine Learning
 |   |    |(theano & caffe) Deep Learning Packages Intro  | 김무성 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study01/pkg/deep_learning_packages_intro.ipynb)  |
 | 2 |5/11| 보강) 파이썬 기초  | 임은지  | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study02/sp_python/pyPractice.ipynb)  |
 |   |    | (theano) NumPy refresher   | 이관열  | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study02/theano/Numpy_Refresher.ipynb)   |
-|   |    | (caffe) caffee 설치, Nets, Layers, and Blobs   | 유주원 | [발표자료1-caffe](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study02/caffe/Caffe_Nets_Layers_Blobs.ipynb) |
-|   |    |    |  | [발표자료2-classification](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study02/caffe/classification.ipynb) |
-|   |    |    | | [발표자료3-detection](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study02/caffe/detection.ipynb)  |
+|   |    | (caffe) caffee 설치, Nets, Layers, and Blobs   | 유주원 | [1-caffe](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study02/caffe/Caffe_Nets_Layers_Blobs.ipynb) |
+|   |    |    |  | [2-classification](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study02/caffe/classification.ipynb) |
+|   |    |    | | [3-detection](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study02/caffe/detection.ipynb)  |
 | 3 |6/22| (SML) Chapter 2: Linear Regression   | 서형국 |   |
 |   |    | (DML) Linear Algebra   | 심상진 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study03/DML/linear_algebra.ipynb)  |
 |   |    | (theano) Baby Steps - Algebra   | 정재윤 |   |
