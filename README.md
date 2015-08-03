@@ -67,3 +67,32 @@ Middle Learning = Shallow + Deep Machine Learning
 |   |     | (DML) Unsupervised and Transfer Learning   |   |   |
 |   |     | (caffe) Interfaces   |  |   |
 |   |     | (theano) Conditions, Loop, Sparse   |  |   |
+
+
+---------------------
+
+<b>PART II</b>
+* 2015년 11월 09일~ 2015년 12월 28일  
+
+| 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
+| ----- |:------:| :-------------------------------------|:-------:|:----------------------------------------: |
+| 1 |11/09| (SML) Chapter 10: From the Perceptron to Artificial Neural Networks  |   |   |
+|   |     | (DML) Distributed Representations: Disentangling the Underlying Factors   |   |   |
+|   |     | (caffe) Data   |  |   |
+|   |     | (theano) Using the GPU   |  |   |
+| 2 |11/23| 보강) Computer vision basic  |   |   |
+|   |     | (DML) Convolutional Networks   |   |   |
+|   |     | (caffe) Caffeinated Convolution   |  |   |
+|   |     | (theano) PyCUDA/CUDAMat/Gnumpy compatibility   |  |   |
+| 3 |12/07| 보강) HMM, CRF  |   |   |
+|   |     | (DML) Sequence Modeling: Recurrent and Recursive Nets   |   |   |
+|   |     | (theano) Understanding Memory Aliasing for Speed and Correctness   |   |   |
+|   |     | (caffe) Model Zoo   |   |   |
+| 4 |12/14| (DML) The Manifold Perspective on Auto-Encoders  |   |   |
+|   |     | 보강) Deep Learning 실습   |   |   |
+|   |     | (theano) Debugging Theano: FAQ and Troubleshooting   |   |   |
+|   |     | (caffe)    |  |   |
+| 5 |12/28| (DML) Confronting the Partition Function  |   |   |
+|   |     | 보강) Deep Learning 실습   |   |   |
+|   |     | (theano) Profiling Theano function   |  |   |
+|   |     | (caffe)    |  |   |
