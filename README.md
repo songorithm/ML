@@ -14,6 +14,7 @@ Middle Learning = Shallow + Deep Machine Learning
 
 
 # 커리큘럼
+------------
 <b>PART I</b>
 * 2015년 4월 27일~ 2015년 8월 03일  
 
