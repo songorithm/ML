@@ -33,7 +33,7 @@ Middle Learning = Shallow + Deep Machine Learning
 |   |    | (theano) Baby Steps - Algebra   | 정재윤 |   |
 | 4 |7/6 | (SML) Chapter 3: Feature Extraction and Preprocessing | 송치성 |   |
 |   |    | 보강) Deep Learning 실습 - theano & caffe intro   | 김정주 |   |
-| 5 |7/20| (SML) Chapter 4: From Linear Regression to Logistic Regression | 김덕태 |   |
+| 5 |7/20| (SML) Chapter 4: From Linear Regression to Logistic Regression (1) | 김덕태 |   |
 |   |    | (DML) Probability and Information Theory   | 박성걸 |   |
 | 6 |8/03| (SML) Chapter 5: Nonlinear Classification and Regression with Decision Trees | 노규형 |   |
 |   |    | (DML) Numerical Computation | 조정희 | [발표자료](http://www.iro.umontreal.ca/~bengioy/dlbook/numerical.html)   |
@@ -47,16 +47,18 @@ Middle Learning = Shallow + Deep Machine Learning
 
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | ----- |:------:| :-------------------------------------|:-------:|:----------------------------------------: |
-| 1 |8/17| 보강) probabilistic graphical models  |   |   |
-|   |    | (DML) Machine Learning Basics   |   |   |
-|   |    | (caffe) Forward / Backward   |  |   |
-|   |    | (theano) Printing/Drawing Theano graphs   |  |   |
-| 2 |8/31| (SML) Chapter 6: Clustering with K-Means  |   |   |
+| 1 |8/17| (SML) Chapter 4: From Linear Regression to Logistic Regression (2)  |김덕태|   |
+|   |    | (DML) Machine Learning Basics (1) | 김무성 |[발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study01/dml05/05_Machine_Learning_Basics.ipynb)   |
+|   |    | (caffe) Forward / Backward   | 김정주  |[발표자료](https://drive.google.com/file/d/0B6_75PJs30-WZnlpWmExS2pRVUk/view) |
+|   |    | (theano) Printing/Drawing Theano graphs   | 노규형  |   |
+| 2 |8/31| (SML) Chapter 4: From Linear Regression to Logistic Regression (3)  | 김덕태 |   |
 |   |    | 보강) PGM 실습   |   |   |
 |   |    | (caffe) Loss   |  |   |
 |   |    | (theano) Derivatives in Theano   |  |   |
+|   |    | (DML) Machine Learning Basics (2) | 김무성 |[발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study01/dml05/05_Machine_Learning_Basics.ipynb)   |
 | 3 |9/14| (DML) Feedforward Deep Networks  |   |   |
 |   |    | 보강) Deep Learning 실습   |   |   |
+|   |    | (SML) Chapter 6: Clustering with K-Means   |   |   |
 | 4 |9/28| (SML) Chapter 7: Dimensionality Reduction with PCA  |   |   |
 |   |    | (DML) Numerical Optimization   |   |   |
 |   |    | (caffe) Solver   |  |   |
