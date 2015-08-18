@@ -38,7 +38,6 @@ Middle Learning = Shallow + Deep Machine Learning
 | 6 |8/03| (SML) Chapter 5: Nonlinear Classification and Regression with Decision Trees | 노규형 |   |
 |   |    | (DML) Numerical Computation | 조정희 | [발표자료](http://www.iro.umontreal.ca/~bengioy/dlbook/numerical.html)   |
 |   |    | (theano) More Examples  | 박세진 |   |
-|   |    | (theano) Graph Structures  | 노규형 |   |
 
 ---------------------
 
@@ -50,7 +49,7 @@ Middle Learning = Shallow + Deep Machine Learning
 | 1 |8/17| (SML) Chapter 4: From Linear Regression to Logistic Regression (2)  |김덕태|   |
 |   |    | (DML) Machine Learning Basics (1) | 김무성 |[발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study01/dml05/05_Machine_Learning_Basics.ipynb)   |
 |   |    | (caffe) Forward / Backward   | 김정주  |[발표자료](https://drive.google.com/file/d/0B6_75PJs30-WZnlpWmExS2pRVUk/view) |
-|   |    | (theano) Printing/Drawing Theano graphs   | 노규형  |   |
+|   |    | (theano) Graph Structures & Printing/Drawing Theano graphs   | 노규형  |   |
 | 2 |8/31| (SML) Chapter 4: From Linear Regression to Logistic Regression (3)  | 김덕태 |   |
 |   |    | 보강) PGM 실습   |   |   |
 |   |    | (caffe) Loss   |  |   |
