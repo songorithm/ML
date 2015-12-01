@@ -4,16 +4,15 @@ title: About
 permalink: /about/
 ---
 
-* 소비자심리 + Google Analytics + R을 이용한 마케 분석 + 린 분석 + 파이썬 웹 쇼핑몰 만들기(Django)
-* 스터디 운영주체 : 싸이지먼트([페이스북 그룹](https://www.facebook.com/groups/psygement/))
-* 스터디 리더 : 김성근
+* 손고리즘ML(파이썬을 이용한 기계학습 기초) - Middle Learning = Shallow + Deep Machine Learning
+* 스터디 운영주체 : 싸이그래머([페이스북 그룹](https://www.facebook.com/groups/psygrammer/)), 손고리즘([페이스북 그룹](https://www.facebook.com/groups/songorithm/))
+* 스터디 리더 : 김정주, 김무성
 
 ### More Information
 
-* [github](https://github.com/psygement/conpsy)
-* [관련 스터디들](http://psygement.github.io/)
-* [페이스북 그룹](https://www.facebook.com/groups/psygement/)
+* [github](https://github.com/songorithm/ML)
+* [관련 스터디들](http://songorithm.github.io/)
+* [페이스북 그룹](https://www.facebook.com/groups/songorithm/)
 
-![그룹](https://cloud.githubusercontent.com/assets/1955312/9422301/50aa8b76-48c9-11e5-8703-c389594cf494.jpg)
 
 ### Contact me
