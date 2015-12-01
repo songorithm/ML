@@ -58,7 +58,7 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 | 3 |6/22| (SML) Chapter 2: Linear Regression   | 서형국 |[발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study03/SML/Scikit-ML-02.ipynb)   |
 |   |    | (DML) Linear Algebra   | 심상진 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study03/DML/linear_algebra.ipynb)  |
 |   |    | (theano) Baby Steps - Algebra   | 정재윤 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study03/PKG/theano/TheanoAlgebra.ipynb)  |
-| 4 |7/6 | (SML) Chapter 3: Feature Extraction and Preprocessing | 송치성 |   |
+| 4 |7/6 | (SML) Chapter 3: Feature Extraction and Preprocessing | 송치성 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study04/SML/songorithm_ch3.ipynb)  |
 |   |    | 보강) Deep Learning 실습 - theano & caffe intro   | 김정주 | [발표자료](https://drive.google.com/file/d/0B6_75PJs30-WcXptZFBkTV9EVjg/view)  |
 | 5 |7/20| (SML) Chapter 4: From Linear Regression to Logistic Regression (1) | 김덕태 |[발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study05/SML/ch04-From%20Linear%20Regression%20to%20Logistic%20Regression.ipynb)   |
 |   |    | (DML) Probability and Information Theory   | 박성걸 |   |
