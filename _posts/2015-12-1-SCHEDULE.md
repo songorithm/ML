@@ -13,7 +13,7 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | ----- |:------:| :-------------------------------------|:-------:|:----------------------------------------: |
-| 1 |11/09| (DML) 9. Convolutional Networks (1)  |  김무성 |   |
+| 1 |11/09| (DML) 9. Convolutional Networks (1)  |  김무성 | [발료자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part3/dml/ch09/9_Convolutional_Networks.ipynb)  |
 |   |     | (caffe) 도커 기반 caffe 실습   | 김정주   |   |
 | 2 |11/23| (theano) 3 Getting Started  | 김무성  |   |
 |   |     | (tensorflow) 소개 & 셋팅 & MNIST digits example | 김정주  |   |
