@@ -13,10 +13,10 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | ----- |:------:| :-------------------------------------|:-------:|:----------------------------------------: |
-| 1 |11/09| (DML) 9. Convolutional Networks (1)  |  김무성 | [발료자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part3/dml/ch09/9_Convolutional_Networks.ipynb)  |
-|   |     | (caffe) 도커 기반 caffe 실습   | 김정주   |   |
-| 2 |11/23| (theano) 3 Getting Started  | 김무성  |   |
-|   |     | (tensorflow) 소개 & 셋팅 & MNIST digits example | 김정주  |   |
+| 1 |11/09| (DML) 9. Convolutional Networks (1)  |  김무성 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part3/dml/ch09/9_Convolutional_Networks.ipynb)  |
+|   |     | (caffe) Docker로 caffe 실습하기   | 김정주   | [발표자료](https://gist.github.com/haje01/0fb6d63bf065c9831256) |
+| 2 |11/23| (theano) 3 Getting Started  | 김무성  | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part3/pkg/theano/ch03/3_Getting_Started.ipynb)   |
+|   |     | (tensorflow) 텐서플로 시작하기 - 소개 & 셋팅 & MNIST digits example | 김정주  | [발표자료](https://gist.github.com/haje01/202ac276bace4b25dd3f)   |
 | 3 |12/07| (SML) Chapter 9: From the Perceptron to Support Vector Machines  | 김정주  |   |
 |   |     | (DML)9. Convolutional Networks (2)  |  김무성  |   |
 |   |     | (DML)8. Optimization for Training Deep Models (2)   | 고희연  |   |
