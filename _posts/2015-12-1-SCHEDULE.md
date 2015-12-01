@@ -57,7 +57,7 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |    |    | | [3-detection](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study02/caffe/detection.ipynb)  |
 | 3 |6/22| (SML) Chapter 2: Linear Regression   | 서형국 |   |
 |   |    | (DML) Linear Algebra   | 심상진 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study03/DML/linear_algebra.ipynb)  |
-|   |    | (theano) Baby Steps - Algebra   | 정재윤 |   |
+|   |    | (theano) Baby Steps - Algebra   | 정재윤 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study03/PKG/theano/TheanoAlgebra.ipynb)  |
 | 4 |7/6 | (SML) Chapter 3: Feature Extraction and Preprocessing | 송치성 |   |
 |   |    | 보강) Deep Learning 실습 - theano & caffe intro   | 김정주 |   |
 | 5 |7/20| (SML) Chapter 4: From Linear Regression to Logistic Regression (1) | 김덕태 |   |
@@ -80,7 +80,7 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |    | (theano) Graph Structures & Printing/Drawing Theano graphs   | 노규형  |   |
 | 2 |8/31| (SML) Chapter 4: From Linear Regression to Logistic Regression (3)  | 김덕태 |   |
 |   |    | (DML) Feedforward Deep Networks (1)   |  최정원 |   |
-|   |    | (theano) Derivatives in Theano    | 정재윤 |   |
+|   |    | (theano) Derivatives in Theano    | 정재윤 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study03/PKG/theano/Derivatives.ipynb)  |
 |   |    | (DML) Machine Learning Basics (2) | 김무성  |[발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study01/dml05/05_Machine_Learning_Basics.ipynb)   |
 | 3 |9/14| (DML) Feedforward Deep Networks (2)  | 최정원  |   |
 |   |    | (DML) Machine Learning Basics (3) | 김무성  |[발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study01/dml05/05_Machine_Learning_Basics.ipynb)   |
