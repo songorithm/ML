@@ -87,7 +87,7 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 | 4 |10/12| (SML) Chapter 6: Clustering with K-Means  | 임동욱  |[발표자료](https://drive.google.com/file/d/0Bw594TdiBdAUTV9HMUtRR1h4U3M/view)   |
 |   |     | (DML) 5. Machine Learning Basics (4)   | 김무성   | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study01/dml05/05_Machine_Learning_Basics.ipynb)  |
 |   |     | (DML) 7. Regularization of Deep or Distributed Models   | 김무성 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study04/dml07/7_Regularization_of_Deep_or_Distributed_Models.ipynb)  |
-| 5 |10/26| (SML) Chapter 7: Dimensionality Reduction with PCA  | 윤성원  |   |
+| 5 |10/26| (SML) Chapter 7: Dimensionality Reduction with PCA  | 윤성원  |[발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study05/SML/dimensionality%20reduction%20with%20PCA.ipynb)   |
 |   |     | (DML) 8. Optimization for Training Deep Models (1)   | 김무성   | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study05/dml08/8_Optimization_for_Training_Deep_Models.ipynb)  |
 |   |     | (theano) keras 소개  | 정재윤  | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study05/pkg/Keras.ipynb)   |
 
