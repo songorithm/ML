@@ -32,6 +32,15 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |     | (caffe) 위의 예제를 caffe로    |  |   |
 |   |     | (tensorflow) 위의 예제를 tensorflow로    |  |   |
 
+
+-----------
+
+예정 : PART IV
+
+-----------
+
+완료 : PART I ~ II
+
 ## PART I
 
 * 2015년 4월 27일~ 2015년 8월 03일  
