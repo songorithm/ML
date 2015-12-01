@@ -18,8 +18,8 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 | 2 |11/23| (theano) 3 Getting Started  | 김무성  | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part3/pkg/theano/ch03/3_Getting_Started.ipynb)   |
 |   |     | (tensorflow) 텐서플로 시작하기 - 소개 & 셋팅 & MNIST digits example | 김정주  | [발표자료](https://gist.github.com/haje01/202ac276bace4b25dd3f)   |
 | 3 |12/07| (SML) Chapter 9: From the Perceptron to Support Vector Machines  | 김정주  |   |
-|   |     | (DML)9. Convolutional Networks (2)  |  김무성  |   |
-|   |     | (DML)8. Optimization for Training Deep Models (2)   | 고희연  |   |
+|   |     | (DML) 9. Convolutional Networks (2)  |  김무성  |   |
+|   |     | (DML) 8. Optimization for Training Deep Models (2)   | 고희연  |   |
 |   |     | (theano) 4 Classifying MNIST digits using Logistic Regression  | 박상진  |   |
 |   |     | (caffe) 위의 예제를 caffe로  | 윤성원  |   |
 | 4 |12/14| (SML-스파크) 2. Introduction to Data Analysis with Scala and Spark  |   |   |
@@ -62,9 +62,9 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |    | 보강) Deep Learning 실습 - theano & caffe intro   | 김정주 |   |
 | 5 |7/20| (SML) Chapter 4: From Linear Regression to Logistic Regression (1) | 김덕태 |   |
 |   |    | (DML) Probability and Information Theory   | 박성걸 |   |
-| 6 |8/03| (SML) Chapter 5: Nonlinear Classification and Regression with Decision Trees | 노규형 |   |
+| 6 |8/03| (SML) Chapter 5: Nonlinear Classification and Regression with Decision Trees | 노규형 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study06/SML/Chapter%205.%20Non-Linear%20Classification%20and%20Regression%20with%20Decision%20Trees.ipynb)  |
 |   |    | (DML) Numerical Computation | 조정희 | [발표자료](http://www.iro.umontreal.ca/~bengioy/dlbook/numerical.html)   |
-|   |    | (theano) More Examples  | 박세진 |   |
+|   |    | (theano) More Examples  | 박세진 |[발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study06/PKG/20150803theano_moreexample_sejinpark.ipynb)   |
 
 
 
@@ -85,11 +85,11 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 | 3 |9/14| (DML) Feedforward Deep Networks (2)  | 최정원  |   |
 |   |    | (DML) Machine Learning Basics (3) | 김무성  |[발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study01/dml05/05_Machine_Learning_Basics.ipynb)   |
 | 4 |10/12| (SML) Chapter 6: Clustering with K-Means  | 임동욱  |   |
-|   |     | (DML) 5. Machine Learning Basics (4)   | 김무성   |   |
-|   |     | (DML) 7. Regularization   | 김무성 |   |
+|   |     | (DML) 5. Machine Learning Basics (4)   | 김무성   | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study01/dml05/05_Machine_Learning_Basics.ipynb)  |
+|   |     | (DML) 7. Regularization of Deep or Distributed Models   | 김무성 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study04/dml07/7_Regularization_of_Deep_or_Distributed_Models.ipynb)  |
 | 5 |10/26| (SML) Chapter 7: Dimensionality Reduction with PCA  | 윤성원  |   |
-|   |     | (DML) 8. Optimization for Training Deep Models (1)   | 김무성   |   |
-|   |     | (theano) keras 소개  | 정재윤  |   |
+|   |     | (DML) 8. Optimization for Training Deep Models (1)   | 김무성   | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study05/dml08/8_Optimization_for_Training_Deep_Models.ipynb)  |
+|   |     | (theano) keras 소개  | 정재윤  | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study05/pkg/Keras.ipynb)   |
 
 
 
