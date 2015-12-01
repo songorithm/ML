@@ -79,10 +79,10 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |    | (caffe) Forward / Backward   | 김정주  |[발표자료](https://drive.google.com/file/d/0B6_75PJs30-WZnlpWmExS2pRVUk/view) |
 |   |    | (theano) Graph Structures & Printing/Drawing Theano graphs   | 노규형  | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study01/PKG/theano/Theano%20-%20graph%20structure.ipynb)  |
 | 2 |8/31| (SML) Chapter 4: From Linear Regression to Logistic Regression (3)  | 김덕태 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study05/SML/ch04-From%20Linear%20Regression%20to%20Logistic%20Regression.ipynb)  |
-|   |    | (DML) Feedforward Deep Networks (1)   |  최정원 |   |
+|   |    | (DML) Feedforward Deep Networks (1)   |  최정원 | [발표자료](https://github.com/songorithm/ML/blob/master/part2/study02/DML/Ch-6.Feedforward-Deep-Networks.md)  |
 |   |    | (theano) Derivatives in Theano    | 정재윤 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study03/PKG/theano/Derivatives.ipynb)  |
 |   |    | (DML) Machine Learning Basics (2) | 김무성  |[발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study01/dml05/05_Machine_Learning_Basics.ipynb)   |
-| 3 |9/14| (DML) Feedforward Deep Networks (2)  | 최정원  |   |
+| 3 |9/14| (DML) Feedforward Deep Networks (2)  | 최정원  | [발표자료](https://github.com/songorithm/ML/blob/master/part2/study02/DML/Ch-6.Feedforward-Deep-Networks.md)  |
 |   |    | (DML) Machine Learning Basics (3) | 김무성  |[발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study01/dml05/05_Machine_Learning_Basics.ipynb)   |
 | 4 |10/12| (SML) Chapter 6: Clustering with K-Means  | 임동욱  |[발표자료](https://drive.google.com/file/d/0Bw594TdiBdAUTV9HMUtRR1h4U3M/view)   |
 |   |     | (DML) 5. Machine Learning Basics (4)   | 김무성   | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part2/study01/dml05/05_Machine_Learning_Basics.ipynb)  |
