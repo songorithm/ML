@@ -13,8 +13,7 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | ----- |:------:| :-------------------------------------|:-------:|:----------------------------------------: |
-| 1 |11/09| (SML) Chapter 
-10: From the Perceptron to Artificial Neural Networks  |   |   |
+| 1 |11/09| (SML) Chapter 10: From the Perceptron to Artificial Neural Networks  |   |   |
 |   |     | (DML) Distributed Representations: Disentangling the Underlying Factors   |   |   |
 |   |     | (caffe) Data   |  |   |
 |   |     | (theano) Using the GPU   |  |   |
