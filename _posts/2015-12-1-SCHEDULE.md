@@ -55,7 +55,7 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |    | (caffe) caffee 설치, Nets, Layers, and Blobs   | 유주원 | [1-caffe](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study02/caffe/Caffe_Nets_Layers_Blobs.ipynb) |
 |   |    |    |  | [2-classification](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study02/caffe/classification.ipynb) |
 |   |    |    | | [3-detection](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study02/caffe/detection.ipynb)  |
-| 3 |6/22| (SML) Chapter 2: Linear Regression   | 서형국 |   |
+| 3 |6/22| (SML) Chapter 2: Linear Regression   | 서형국 |[발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study03/SML/Scikit-ML-02.ipynb)   |
 |   |    | (DML) Linear Algebra   | 심상진 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study03/DML/linear_algebra.ipynb)  |
 |   |    | (theano) Baby Steps - Algebra   | 정재윤 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study03/PKG/theano/TheanoAlgebra.ipynb)  |
 | 4 |7/6 | (SML) Chapter 3: Feature Extraction and Preprocessing | 송치성 |   |
