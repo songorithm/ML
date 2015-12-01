@@ -59,7 +59,7 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |    | (DML) Linear Algebra   | 심상진 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study03/DML/linear_algebra.ipynb)  |
 |   |    | (theano) Baby Steps - Algebra   | 정재윤 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study03/PKG/theano/TheanoAlgebra.ipynb)  |
 | 4 |7/6 | (SML) Chapter 3: Feature Extraction and Preprocessing | 송치성 |   |
-|   |    | 보강) Deep Learning 실습 - theano & caffe intro   | 김정주 |   |
+|   |    | 보강) Deep Learning 실습 - theano & caffe intro   | 김정주 | [발표자료](https://drive.google.com/file/d/0B6_75PJs30-WcXptZFBkTV9EVjg/view)  |
 | 5 |7/20| (SML) Chapter 4: From Linear Regression to Logistic Regression (1) | 김덕태 |   |
 |   |    | (DML) Probability and Information Theory   | 박성걸 |   |
 | 6 |8/03| (SML) Chapter 5: Nonlinear Classification and Regression with Decision Trees | 노규형 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study06/SML/Chapter%205.%20Non-Linear%20Classification%20and%20Regression%20with%20Decision%20Trees.ipynb)  |
