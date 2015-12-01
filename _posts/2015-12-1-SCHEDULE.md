@@ -13,27 +13,24 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | ----- |:------:| :-------------------------------------|:-------:|:----------------------------------------: |
-| 1 |11/09| (SML) Chapter 10: From the Perceptron to Artificial Neural Networks  |   |   |
-|   |     | (DML) Distributed Representations: Disentangling the Underlying Factors   |   |   |
-|   |     | (caffe) Data   |  |   |
-|   |     | (theano) Using the GPU   |  |   |
-| 2 |11/23| 보강) Computer vision basic  |   |   |
-|   |     | (DML) Convolutional Networks   |   |   |
-|   |     | (caffe) Caffeinated Convolution   |  |   |
-|   |     | (theano) PyCUDA/CUDAMat/Gnumpy compatibility   |  |   |
-| 3 |12/07| (SML) Chapter 9: From the Perceptron to Support Vector Machines  |   |   |
-|   |     | (DML) Sequence Modeling: Recurrent and Recursive Nets   |   |   |
-|   |     | (theano) Understanding Memory Aliasing for Speed and Correctness   |   |   |
-|   |     | (caffe) Model Zoo   |   |   |
-| 4 |12/14| (DML) The Manifold Perspective on Auto-Encoders  |   |   |
-|   |     | 보강) Deep Learning 실습   |   |   |
-|   |     | (theano) Debugging Theano: FAQ and Troubleshooting   |   |   |
-|   |     | (caffe)    |  |   |
-| 5 |12/28| (DML) Confronting the Partition Function  |   |   |
-|   |     | 보강) Deep Learning 실습   |   |   |
-|   |     | (theano) Profiling Theano function   |  |   |
-|   |     | (caffe)    |  |   |
-
+| 1 |11/09| (DML) 9. Convolutional Networks (1)  |  김무성 |   |
+|   |     | (caffe) 도커 기반 caffe 실습   | 김정주   |   |
+| 2 |11/23| (theano) 3 Getting Started  | 김무성  |   |
+|   |     | (tensorflow) 소개 & 셋팅 & MNIST digits example | 김정주  |   |
+| 3 |12/07| (SML) Chapter 9: From the Perceptron to Support Vector Machines  | 김정주  |   |
+|   |     | (DML)9. Convolutional Networks (2)  |  김무성  |   |
+|   |     | (DML)8. Optimization for Training Deep Models (2)   | 고희연  |   |
+|   |     | (theano) 4 Classifying MNIST digits using Logistic Regression  | 박상진  |   |
+|   |     | (caffe) 위의 예제를 caffe로  | 윤성원  |   |
+| 4 |12/14| (SML-스파크) 2. Introduction to Data Analysis with Scala and Spark  |   |   |
+|   |     | (DML) 10. Sequence Modeling: Recurrent and Recursive Nets (1)   |   |   |
+|   |     | (caffe) 위의 예제를 caffe로   |   |   |
+|   |     | (tensorflow) 위의 예제를 tensorflow로    |  |   |
+| 5 |12/28| (SML-스파크) 3. Recommending Music and the Audioscrobbler Data Set  |   |   |
+|   |     | (DML) 10. Sequence Modeling: Recurrent and Recursive Nets (2)   |   |   |
+|   |     | (theano) 6 Convolutional Neural Networks (LeNet)   |  |   |
+|   |     | (caffe) 위의 예제를 caffe로    |  |   |
+|   |     | (tensorflow) 위의 예제를 tensorflow로    |  |   |
 
 ## PART I
 
