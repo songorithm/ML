@@ -1,0 +1,18 @@
+digraph "satPLS.fit" {
+  rankdir=LR;
+  size="8,8";
+  node [fontname="Helvetica" fontsize=14 shape=box];
+  edge [fontname="Helvetica" fontsize=10];
+  center=1;
+  "Cost" [shape=ellipse]
+  "Quality" [shape=ellipse]
+  "Value" [shape=ellipse]
+  "CSat" [shape=ellipse]
+  "Repeat" [shape=ellipse]
+ "Cost" -> "Value" [label="-0.27"];
+  "Quality" -> "Value" [label="0.27"];
+  "Quality" -> "CSat" [label="0.14"];
+  "Value" -> "CSat" [label="-0.1"];
+  "Cost" -> "Repeat" [label="-0.05"];
+  "CSat" -> "Repeat" [label="0.35"];
+}
