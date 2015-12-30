@@ -61,7 +61,7 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 | 4 |7/6 | (SML) Chapter 3: Feature Extraction and Preprocessing | 송치성 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study04/SML/songorithm_ch3.ipynb)  |
 |   |    | 보강) Deep Learning 실습 - theano & caffe intro   | 김정주 | [발표자료](https://drive.google.com/file/d/0B6_75PJs30-WcXptZFBkTV9EVjg/view)  |
 | 5 |7/20| (SML) Chapter 4: From Linear Regression to Logistic Regression (1) | 김덕태 |[발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study05/SML/ch04-From%20Linear%20Regression%20to%20Logistic%20Regression.ipynb)   |
-|   |    | (DML) Probability and Information Theory   | 박성걸 |   |
+|   |    | (DML) Probability and Information Theory   | 박성걸 | [발표자료](https://drive.google.com/file/d/0Bw594TdiBdAUZmNIdlUyT2VXU1E/view)  |
 | 6 |8/03| (SML) Chapter 5: Nonlinear Classification and Regression with Decision Trees | 노규형 | [발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study06/SML/Chapter%205.%20Non-Linear%20Classification%20and%20Regression%20with%20Decision%20Trees.ipynb)  |
 |   |    | (DML) Numerical Computation | 조정희 | [발표자료](http://www.iro.umontreal.ca/~bengioy/dlbook/numerical.html)   |
 |   |    | (theano) More Examples  | 박세진 |[발표자료](http://nbviewer.ipython.org/github/songorithm/ML/blob/master/part1/study06/PKG/20150803theano_moreexample_sejinpark.ipynb)   |
